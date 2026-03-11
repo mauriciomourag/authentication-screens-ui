@@ -35,7 +35,6 @@ Telas de login são elementos essenciais em sistemas digitais, permitindo identi
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JavaScript</li>
-<li>NPM (caso utilizado)</li>
 </ul>
 
 <hr>
